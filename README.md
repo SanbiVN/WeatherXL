@@ -2,9 +2,9 @@
 
 Thu thập dữ liệu lịch sử thời tiết hàng ngày trực tuyến từ nguồn freeMeteo và TimeAndDate
 
-[Nhấn tải WeatherXL](https://github.com/SanbiVN/WeatherXL/releases/download/weather/WeatherXL_v3.03.zip)  
+[Nhấn tải WeatherXL](https://github.com/SanbiVN/WeatherXL/releases/download/weather/WeatherXL_v3.04.zip)  
 
-[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/WeatherXL/total.svg)](https://github.com/SanbiVN/WeatherXL/releases/download/weather/WeatherXL_v3.03.zip)
+[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/WeatherXL/total.svg)](https://github.com/SanbiVN/WeatherXL/releases/download/weather/WeatherXL_v3.04.zip)
 
 
 ![WeatherXL](https://github.com/SanbiVN/WeatherXL/blob/main/images/meteo%20weather.gif)
