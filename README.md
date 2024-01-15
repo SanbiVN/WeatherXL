@@ -1,5 +1,6 @@
 # WeatherXL
-Dữ liệu thời tiết trực tuyến từ nguồn freeMeteo và AccuWeather
+
+Thu thập dữ liệu lịch sử thời tiết hàng ngày trực tuyến từ nguồn freeMeteo và TimeAndDate
 
 [Nhấn tải WeatherXL](https://github.com/SanbiVN/WeatherXL/releases/download/weather/WeatherXL_v3.03.zip)  
 
@@ -49,7 +50,7 @@ Một trang tính mới sẽ được tạo vào dự án của bạn với giao
 ​
 Tìm vị trí vùng địa lý:​
 ​
-Gõ hàm ```=ThoiTiet_TimKiem("Hà Nội")``` sẽ tìm kiếm vùng+đường dẫn và ghi vào tại vị trí ô gõ hàm.​
+Gõ hàm ```=ThoiTiet_TimKiem("Hà Nội")``` sẽ tìm kiếm *vùng+đường dẫn* và ghi vào tại vị trí ô gõ hàm.​
 Bạn cần chép đường dẫn vị trí địa lý cần thiết vào ô Name ```tt_Nguon```.​
 
 
