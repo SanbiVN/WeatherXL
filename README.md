@@ -40,11 +40,11 @@ Nếu muốn dữ liều các cột riêng lẻ hãy tạo Name như dưới đ�
 9. *Gió giật tối đa*: tên ```tt_GioGiat​```
 10. *Lượng mưa*: tên ```tt_LuongMua​```
 11. *Mô tả*: tên ```tt_MoTa​```
-12. *Hiện icon*: tên ```tt_icon``` (Nếu name tồn tại thì Icon sẽ được thêm vào dòng dữ liệu)​
+12. *Hiện icon*: tên ```tt_icon``` (Nếu name tồn tại thì Icon sẽ được thêm vào dòng dữ liệu)​ \
 ​
-Để tạo tất cả Name trên nhanh hơn, hãy gõ hàm ```=ThoiTiet_AddNames()``` vào ô bất kì, các Name sẽ tự động được tạo và cửa sổ ```Name Manager``` sẽ hiện lên để chỉnh sửa.​
+Để tạo tất cả Name trên nhanh hơn, hãy gõ hàm ```=ThoiTiet_AddNames()``` vào ô bất kì, các Name sẽ tự động được tạo và cửa sổ ```Name Manager``` sẽ hiện lên để chỉnh sửa.​ \
 ​
-Để tạo trang tính có sẵn, hãy gõ hàm ```=ThoiTiet_Worksheet()``` vào ô bất kì,​
+Để tạo trang tính có sẵn, hãy gõ hàm ```=ThoiTiet_Worksheet()``` vào ô bất kì,​ \
 Một trang tính mới sẽ được tạo vào dự án của bạn với giao diện đầy đủ.​
 ​
 ​
