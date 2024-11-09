@@ -16,6 +16,7 @@ Thu thập dữ liệu lịch sử thời tiết hàng ngày trực tuyến từ
 ​
 Tạo các ô với các Name như sau: (Trong tab Formulas > Name Manager)​
 (Tạo name để tự động lấy thông tin tải và ghi dữ liệu)​
+(Có thể gõ hàm ```=ThoiTiet_AddNames()``` để tạo nhanh tất cả các Name ngay lập tức)
 ​
 ### Các ô bắt buộc:​
 1. *Nguồn web*: tên ```tt_Nguon​```
