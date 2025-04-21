@@ -2,6 +2,8 @@
 
 Thu thập dữ liệu lịch sử thời tiết hàng ngày trực tuyến từ nguồn freeMeteo và TimeAndDate
 
+Thông báo: ***Nguồn cấp FreeMeteo đã dừng cấp dữ liệu lịch sử, nên ứng dụng đã lỗi
+
 [Nhấn tải WeatherXL](https://github.com/SanbiVN/WeatherXL/releases/download/weather/WeatherXL_v3.04.zip)  
 
 [![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/WeatherXL/total.svg)](https://github.com/SanbiVN/WeatherXL/releases/download/weather/WeatherXL_v3.04.zip)
